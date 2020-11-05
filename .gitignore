@@ -1,0 +1,12 @@
+bin
+obj
+.vscode
+.DS_Store
+appsettings.json
+*.db
+.vs/React_Course_Code/DesignTimeBuild/.dtbcache
+.vs/React_Course_Code/v15/.suo
+.vs/React_Course_Code/v15/Server/sqlite3/db.lock
+.vs/React_Course_Code/v15/Server/sqlite3/storage.ide
+.vs/React_Course_Code/v15/Server/sqlite3/storage.ide-shm
+.vs/React_Course_Code/v15/Server/sqlite3/storage.ide-wal
