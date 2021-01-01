@@ -1,7 +1,7 @@
 import { AxiosResponse } from 'axios';
 import axios from 'axios';
 import { IActivity } from '../models/activity';
-import { TIMEOUT } from 'dns';
+
 
 axios.defaults.baseURL = 'http://localhost:5000/api'
 
